@@ -1,11 +1,4 @@
 window.addEventListener("load",function(){
-
-	
-
-	
-	
-
-
 	initGrille();
 	initTableau();
 	vie();
